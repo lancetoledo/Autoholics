@@ -1,3 +1,28 @@
+**How to start up the project**
+
+## NPM
+
+In order to start up this project, simply open up your terminal
+
+Then, you need to type npm install and this will install your node_modules folder
+
+Once that is done, you can simply type npm start and the website will load up.
+
+## Yarn
+
+If you are using Yarn, you can just type in yarn in your terminal
+
+Then, once it finishes loading, you can type yarn start and your website should load up.
+
+If you run into any issues with Yarn, I've attached this article below showing how to migrate from npm to yarn and the different commands you can use to start up the project.
+
+There is more information about migrating from npm to yarn here
+
+In order to open the link, press (cmd + click)
+[Yarn link](https://classic.yarnpkg.com/en/docs/migrating-from-npm)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
