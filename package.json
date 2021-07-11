@@ -2,7 +2,7 @@
   "name": "react-website-smooth-scroll-v1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https//lancetoledo.github.io/Autoholics",
+  "homepage": "https://lancetoledo.github.io/Autoholics",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
