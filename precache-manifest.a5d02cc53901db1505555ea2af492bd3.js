@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "30880ed8a1350c7a98460652b495d7f6",
+    "revision": "453cad82b15458480818d9da881b6fa8",
     "url": "/Autoholics/index.html"
   },
   {
-    "revision": "a26eb1464c8cdddc542c",
+    "revision": "2bca63139db8e413262c",
     "url": "/Autoholics/static/css/main.99e75adc.chunk.css"
   },
   {
-    "revision": "e239505314d93aa881c2",
-    "url": "/Autoholics/static/js/2.9c73e4be.chunk.js"
+    "revision": "972ace01c3599feef9cb",
+    "url": "/Autoholics/static/js/2.e232af4b.chunk.js"
   },
   {
     "revision": "fa44b1e8e997ce7ffe81ca75f82bf57d",
-    "url": "/Autoholics/static/js/2.9c73e4be.chunk.js.LICENSE.txt"
+    "url": "/Autoholics/static/js/2.e232af4b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a26eb1464c8cdddc542c",
-    "url": "/Autoholics/static/js/main.45704302.chunk.js"
+    "revision": "2bca63139db8e413262c",
+    "url": "/Autoholics/static/js/main.f06d71c9.chunk.js"
   },
   {
     "revision": "5bdcb977d8707bc8a4cb",
